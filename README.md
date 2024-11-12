@@ -4,7 +4,7 @@ I'm currently studying at Hive Helsinki (C and C++ school). This github contains
 
 I'm aspiring to become a software developer, who also has an interest in exploring backend. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ito-miyuki&show_icons=true&locale=en" alt="ito-miyuki" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marsu4ever&show_icons=true&locale=en" alt="Marsu4ever" /></p>
 
 
 <!--
