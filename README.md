@@ -2,7 +2,7 @@
 
 I'm currently studying at Hive Helsinki (C and C++ school). This github contains my school projects.
 
-I'm aspiring to become a software developer, who also has an interest in exploring backend. 
+I'm aspiring to become a software developer, who also has an interest in exploring backend.⚙️  
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marsu4ever&layout=compact)
