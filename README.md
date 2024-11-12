@@ -4,6 +4,8 @@ I'm currently studying at Hive Helsinki (C and C++ school). This github contains
 
 I'm aspiring to become a software developer, who also has an interest in exploring backend. 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Marsu4ever=Marsu4ever&layout=compact)
