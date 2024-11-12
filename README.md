@@ -6,6 +6,8 @@ I'm aspiring to become a software developer, who also has an interest in explori
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marsu4ever&show_icons=true&locale=en" alt="Marsu4ever" /></p>
 
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Marsu4ever=Marsu4ever&layout=compact)
 
 <!--
 **Marsu4ever/Marsu4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
