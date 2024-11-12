@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently studying at Hive Helsinki (C and C++ school). This github contains my school projects.
+
+I'm aspiring to become a software developer, who also has an interest in exploring backend. 
+
 <!--
 **Marsu4ever/Marsu4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
